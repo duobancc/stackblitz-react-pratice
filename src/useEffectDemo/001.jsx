@@ -1,4 +1,3 @@
-const { useState } = require('react');
 import { useState, useEffect } from 'react';
 
 export function Example() {
